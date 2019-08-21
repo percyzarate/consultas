@@ -1,6 +1,6 @@
 <?php 
 //Ip de la pc servidor de base de datos
-define("DB_HOST","br5femdiimfywjtvcvju-mysql.services.clever-cloud.com");
+define("DB_HOST","localhost");
 
 //Nombre de la base de datos
 define("DB_NAME", "br5femdiimfywjtvcvju");
